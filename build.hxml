@@ -1,0 +1,5 @@
+-cp src
+Calculator
+-cpp cpp_gen
+-D no-compilation
+-cmd cmake --build build
