@@ -4,6 +4,8 @@ project(hello CXX)
 
 add_compile_definitions(
 	HX_WINDOWS
+	HXCPP_GC_GENERATIONAL
+	HX_SMART_STRINGS
 	HXCPP_API_LEVEL=400
 	HXCPP_VISIT_ALLOCS
 )
