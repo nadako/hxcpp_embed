@@ -3,4 +3,5 @@ Calculator
 -cpp cpp_gen
 -D no-compilation
 -D HXCPP_GC_GENERATIONAL
+-cmd touch CMakeLists.txt
 -cmd cmake --build build
